@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import uuid
 
-WORQHAT_API_KEY = 'sk-0811cc87b7984984af827ca771f3881b'
+WORQHAT_API_KEY = 'your API Key here'
 API_ENDPOINT_URL = 'https://api.worqhat.com/api/ai/content/v4'
 
 
